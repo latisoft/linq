@@ -1,10 +1,7 @@
 Implement C# LINQ by boost::range
 =
-Prepare
--
-- 1. Open Microsoft Visual Studio, new a project with type [`Visual C++ Win32 Console Application`], named [`linq`].
-
-
+About:
+- These project were run under Microsoft Visual Studio 2015 and boost library 1.63.
 
 Reference:
 - [Example Tutorial](https://latisoft.gitbooks.io/about-c-11-14/content/)
